@@ -1,7 +1,7 @@
-# Pizza Order App
+# Pizza Order App 🍕
 
 Perfect little utility if you want to create a macro key for ordering pizza.
-You can edit the list of pizza joints and set a default browser when ordering pizza.
+You can edit the list of pizza joints and set a default browser when ordering pizza. 🤤
 
 Order page opens when button is clicked
 
@@ -16,3 +16,5 @@ https://github.com/realChrisDeBon/PizzaOrderApp/assets/97779307/f766669c-bae6-4f
 
 Credits:
 Free icons from https://www.flaticon.com/authors/freepik
+
+![pizza-deliver](https://github.com/realChrisDeBon/PizzaOrderApp/assets/97779307/672fbfcf-7e4e-466b-8da1-c127c01226b5)
